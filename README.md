@@ -24,5 +24,5 @@ I believe in standing on the shoulders of giants. In this case, OpenZeppelin's s
  I am passionate about DeFi, so much so that I have most of my own wealth in crypto.
 
 Qualifications
-Bachelor and PhD in Electrical Electronics Engineering.
+Bachelor in Electrical Electronics Engineering.
 Certified as an Ethereum Developer.
