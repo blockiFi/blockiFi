@@ -20,7 +20,7 @@ I believe in standing on the shoulders of giants. In this case, OpenZeppelin's s
  
  About Me:
  
- I have over 5 years of development experience. 
+ I have over 6 years of development experience. 
  I am passionate about DeFi, so much so that I have most of my own wealth in crypto.
 
 Qualifications
