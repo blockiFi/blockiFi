@@ -3,7 +3,7 @@ Hello! I'm Sam, a certified full stack DeFi developer,
 Technology I like to use:
 solidity
 Rust 
-Reack js
+React js
 Python 
 next js 
 Laravel (PHP)
